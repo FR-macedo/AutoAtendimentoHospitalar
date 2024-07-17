@@ -1,4 +1,4 @@
-#TOTEM DE AUTOATENDIMENTO HOSPITALAR
+# TOTEM DE AUTOATENDIMENTO HOSPITALAR
 
 Essa aplicação foi criada durante a primeira unidade da cadeira de desenvolvimento para dispositivos moveis da faculdade. 
 
